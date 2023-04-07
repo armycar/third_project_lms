@@ -18,3 +18,5 @@ java, gradle, springboot, jpa, mysql, swagger, redis
 git
 - 협업 툴
 slack
+
+https://user-images.githubusercontent.com/118254103/230599112-86c5d0c6-5043-44a5-95ba-33f27938b006.mp4
